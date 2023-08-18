@@ -58,7 +58,7 @@ function getParallelogramArea() {
 
     setArea('para-area', area);
 
-    addToCalculation('Parallelogram', area)
+    addToCalculation('Parallelogram', area);
 }
 
 // Rhombus
@@ -74,7 +74,7 @@ function getRhombusArea() {
 
     setArea('rhombus-area', area);
 
-    addToCalculation('Rhombus', area)
+    addToCalculation('Rhombus', area);
 }
 
 // Ellipse

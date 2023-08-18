@@ -22,7 +22,6 @@ function getTriangleArea() {
         alert('Enter a Valid Number ')
         return;
     }
-
     setArea('triangle-area', area);
 
     addToCalculation('Triangle', area)
@@ -39,7 +38,6 @@ function getRectangleArea() {
         alert('Enter a Valid Number ')
         return;
     }
-
     setArea('rect-area', area);
 
     addToCalculation('Rectangle', area);
@@ -55,7 +53,6 @@ function getParallelogramArea() {
         alert('Enter a Valid Number ')
         return;
     }
-
     setArea('para-area', area);
 
     addToCalculation('Parallelogram', area);
@@ -71,7 +68,6 @@ function getRhombusArea() {
         alert('Enter a Valid Number ')
         return;
     }
-
     setArea('rhombus-area', area);
 
     addToCalculation('Rhombus', area);
@@ -87,10 +83,9 @@ function getEllipseArea() {
         alert('Enter a Valid Number ')
         return;
     }
-
     setArea('ellipse-area', area);
 
-    addToCalculation('Ellipse', area)
+    addToCalculation('Ellipse', area);
 }
 
 //Pentagon
@@ -103,7 +98,6 @@ function getPentagonArea() {
         alert('Enter a Valid Number ')
         return;
     }
-
     setArea('penta-area', area);
 
     addToCalculation('Pentagon', area);
